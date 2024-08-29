@@ -1,9 +1,5 @@
-# chessaigame
 ---
-
-# ♟️ Chess AI Project
-
-## Overview 🚀
+# chessaigame
 
 Welcome to the **Chess AI Project**! This repository contains a powerful AI designed to challenge even the most seasoned chess players. With various strategies and algorithms under the hood, this AI is ready to take on all challengers. The key components of this project include:
 
